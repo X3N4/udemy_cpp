@@ -1,0 +1,3 @@
+/home/timo/Programs/CPPcourse/Section9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timo/Programs/CPPcourse/Section9/cmake-build-debug/CMakeFiles/Section9.dir
+/home/timo/Programs/CPPcourse/Section9/cmake-build-debug/CMakeFiles/edit_cache.dir

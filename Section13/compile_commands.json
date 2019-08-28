@@ -1,0 +1,101 @@
+[{
+  "file": "/home/timo/Programs/CPPcourse/Section13/StaticClassMember/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/StaticClassMember",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/StaticClassMember/main.cpp -o /home/timo/Programs/CPPcourse/Section13/StaticClassMember/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/StaticClassMember/Player.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/StaticClassMember",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/StaticClassMember/Player.h -o /home/timo/Programs/CPPcourse/Section13/StaticClassMember/Player.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/StaticClassMember/Player.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/StaticClassMember",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/StaticClassMember/Player.cpp -o /home/timo/Programs/CPPcourse/Section13/StaticClassMember/Player.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/MoveConstructor/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/MoveConstructor",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/MoveConstructor/main.cpp -o /home/timo/Programs/CPPcourse/Section13/MoveConstructor/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/CopyConstructor/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/CopyConstructor",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/CopyConstructor/main.cpp -o /home/timo/Programs/CPPcourse/Section13/CopyConstructor/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/DefaultConstructorParameters/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/DefaultConstructorParameters",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/DefaultConstructorParameters/main.cpp -o /home/timo/Programs/CPPcourse/Section13/DefaultConstructorParameters/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ShallowCopy/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ShallowCopy",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ShallowCopy/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ShallowCopy/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods1/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods1",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ImplementingMethods1/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ImplementingMethods1/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ConstinClasses/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ConstinClasses",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ConstinClasses/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ConstinClasses/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/DeepCopy/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/DeepCopy",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/DeepCopy/main.cpp -o /home/timo/Programs/CPPcourse/Section13/DeepCopy/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/DeclareClassandObjects/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/DeclareClassandObjects",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/DeclareClassandObjects/main.cpp -o /home/timo/Programs/CPPcourse/Section13/DeclareClassandObjects/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods2",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods2",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/Account.h -o /home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ImplementingMethods2",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/Account.cpp -o /home/timo/Programs/CPPcourse/Section13/ImplementingMethods2/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/AccessingClassMembers/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/AccessingClassMembers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/AccessingClassMembers/main.cpp -o /home/timo/Programs/CPPcourse/Section13/AccessingClassMembers/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/DefaultConstructor/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/DefaultConstructor",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/DefaultConstructor/main.cpp -o /home/timo/Programs/CPPcourse/Section13/DefaultConstructor/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/Challenge/Movies.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/Challenge/Movies.cpp -o /home/timo/Programs/CPPcourse/Section13/Challenge/Movies.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/Challenge/Movie.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/Challenge/Movie.cpp -o /home/timo/Programs/CPPcourse/Section13/Challenge/Movie.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/Challenge/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/Challenge/main.cpp -o /home/timo/Programs/CPPcourse/Section13/Challenge/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/Challenge/Movies.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/Challenge/Movies.h -o /home/timo/Programs/CPPcourse/Section13/Challenge/Movies.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/Challenge/Movie.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/Challenge/Movie.h -o /home/timo/Programs/CPPcourse/Section13/Challenge/Movie.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/AccessModifiers/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/AccessModifiers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/AccessModifiers/main.cpp -o /home/timo/Programs/CPPcourse/Section13/AccessModifiers/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ConstructorandDestructor/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ConstructorandDestructor",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ConstructorandDestructor/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ConstructorandDestructor/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ConstructorInitializationLists/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ConstructorInitializationLists",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ConstructorInitializationLists/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ConstructorInitializationLists/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section13/ConstructorDelegation/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section13/ConstructorDelegation",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section13/ConstructorDelegation/main.cpp -o /home/timo/Programs/CPPcourse/Section13/ConstructorDelegation/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

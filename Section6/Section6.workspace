@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section6" Database="" Version="10.0.0">
+  <Project Name="InitVars" Path="InitVars/InitVars.project" Active="No"/>
+  <Project Name="PrimitiveTypes" Path="NextProject/NextProject.project" Active="No"/>
+  <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="InitVars" ConfigName="Debug"/>
+      <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="SizeOfOperator" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="InitVars" ConfigName="Release"/>
+      <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="SizeOfOperator" ConfigName="Release"/>
+      <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
