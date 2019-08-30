@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Mystring-operator-methods - Debug ]----------"
-	@cd "Mystring-operator-methods" && "$(MAKE)" -f  "Mystring-operator-methods.mk"
+	@echo "----------Building project:[ Challenge-member - Debug ]----------"
+	@cd "Challenge-member" && "$(MAKE)" -f  "Challenge-member.mk"
 clean:
-	@echo "----------Cleaning project:[ Mystring-operator-methods - Debug ]----------"
-	@cd "Mystring-operator-methods" && "$(MAKE)" -f  "Mystring-operator-methods.mk" clean
+	@echo "----------Cleaning project:[ Challenge-member - Debug ]----------"
+	@cd "Challenge-member" && "$(MAKE)" -f  "Challenge-member.mk" clean

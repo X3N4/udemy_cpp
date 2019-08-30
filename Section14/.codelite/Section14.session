@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/home/timo/Programs/CPPcourse/Section14/Section14.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="1" Name="m_selectedTab"/>
   <wxString Value="/home/timo/Programs/CPPcourse/Section14/Section14.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h" Name="FileName"/>
-      <int Value="7" Name="FirstVisibleLine"/>
-      <int Value="20" Name="CurrentLine"/>
+      <wxString Value="/home/timo/Programs/CPPcourse/Section14/Challenge-member/main.cpp" Name="FileName"/>
+      <int Value="30" Name="FirstVisibleLine"/>
+      <int Value="43" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp" Name="FileName"/>
-      <int Value="75" Name="FirstVisibleLine"/>
-      <int Value="83" Name="CurrentLine"/>
+      <wxString Value="/home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.cpp" Name="FileName"/>
+      <int Value="116" Name="FirstVisibleLine"/>
+      <int Value="131" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="5" Name="CurrentLine"/>
+      <wxString Value="/home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.h" Name="FileName"/>
+      <int Value="9" Name="FirstVisibleLine"/>
+      <int Value="27" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

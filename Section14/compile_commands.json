@@ -1,27 +1,63 @@
 [{
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Challenge-global/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Challenge-global",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Challenge-global/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Challenge-global/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Challenge-global/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Challenge-global",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Challenge-global/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Challenge-global/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Challenge-global/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Challenge-global",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Challenge-global/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Challenge-global/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.h",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Challenge-member/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Challenge-member",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Challenge-member/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Challenge-member/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/main.cpp",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Challenge-member",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.cpp",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Challenge-member",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Challenge-member/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-insertion-extraction/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-global_overloading/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-start/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-start",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-start/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-start/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-start",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-start",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
   "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-copy-assignment/main.cpp",
   "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-copy-assignment",
@@ -35,15 +71,27 @@
   "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-copy-assignment",
   "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-copy-assignment/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-copy-assignment/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-start/main.cpp",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-start",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-start/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-start/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.h",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-start",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }, {
-  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.cpp",
-  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-start",
-  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-start/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-move-assignment/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h -o /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp -o /home/timo/Programs/CPPcourse/Section14/Mystring-operator-methods/Mystring.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
  }]

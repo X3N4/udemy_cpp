@@ -3,7 +3,11 @@
   <Project Name="Mystring-start" Path="Mystring-start/Mystring-start.project" Active="No"/>
   <Project Name="Mystring-copy-assignment" Path="Mystring-copy-assignment/Mystring-copy-assignment.project" Active="No"/>
   <Project Name="Mystring-move-assignment" Path="Mystring-move-assignment/Mystring-move-assignment.project" Active="No"/>
-  <Project Name="Mystring-operator-methods" Path="Mystring-operator-methods/Mystring-operator-methods.project" Active="Yes"/>
+  <Project Name="Mystring-operator-methods" Path="Mystring-operator-methods/Mystring-operator-methods.project" Active="No"/>
+  <Project Name="Mystring-global_overloading" Path="Mystring-global_overloading/Mystring-global_overloading.project" Active="No"/>
+  <Project Name="Mystring-insertion-extraction" Path="Mystring-insertion-extraction/Mystring-insertion-extraction.project" Active="No"/>
+  <Project Name="Challenge-member" Path="Challenge-member/Challenge-member.project" Active="Yes"/>
+  <Project Name="Challenge-global" Path="Challenge-global/Challenge-global.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -11,6 +15,10 @@
       <Project Name="Mystring-copy-assignment" ConfigName="Debug"/>
       <Project Name="Mystring-move-assignment" ConfigName="Debug"/>
       <Project Name="Mystring-operator-methods" ConfigName="Debug"/>
+      <Project Name="Mystring-global_overloading" ConfigName="Debug"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Debug"/>
+      <Project Name="Challenge-member" ConfigName="Debug"/>
+      <Project Name="Challenge-global" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -18,6 +26,10 @@
       <Project Name="Mystring-copy-assignment" ConfigName="Release"/>
       <Project Name="Mystring-move-assignment" ConfigName="Release"/>
       <Project Name="Mystring-operator-methods" ConfigName="Release"/>
+      <Project Name="Mystring-global_overloading" ConfigName="Release"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Release"/>
+      <Project Name="Challenge-member" ConfigName="Release"/>
+      <Project Name="Challenge-global" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
