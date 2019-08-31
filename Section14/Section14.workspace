@@ -6,8 +6,8 @@
   <Project Name="Mystring-operator-methods" Path="Mystring-operator-methods/Mystring-operator-methods.project" Active="No"/>
   <Project Name="Mystring-global_overloading" Path="Mystring-global_overloading/Mystring-global_overloading.project" Active="No"/>
   <Project Name="Mystring-insertion-extraction" Path="Mystring-insertion-extraction/Mystring-insertion-extraction.project" Active="No"/>
-  <Project Name="Challenge-member" Path="Challenge-member/Challenge-member.project" Active="Yes"/>
-  <Project Name="Challenge-global" Path="Challenge-global/Challenge-global.project" Active="No"/>
+  <Project Name="Challenge-member" Path="Challenge-member/Challenge-member.project" Active="No"/>
+  <Project Name="Challenge-global" Path="Challenge-global/Challenge-global.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>

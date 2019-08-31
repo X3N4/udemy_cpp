@@ -28,6 +28,7 @@ int main() {
     s1 = s1 + "*****";
     cout << s1 << endl;               // frank*****       
     
+    // Error here
     s1 += "-----";                        // frank*****-----
     cout << s1 << endl;
     
@@ -43,7 +44,6 @@ int main() {
     s4 *= 0;
     cout << s4 << endl;
     
-    /*
     Mystring s = "Frank";
     ++s;
     cout << s << endl;                  // FRANK
@@ -65,7 +65,6 @@ int main() {
     result = s++;
     cout << s << endl;                  // FRANK
     cout << result << endl;           // frank
-    
-    */
+
     return 0;
 }

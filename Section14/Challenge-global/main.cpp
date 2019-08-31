@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    /*
+
     
     cout << boolalpha << endl;
     Mystring a {"frank"};
@@ -38,7 +38,7 @@ int main() {
     Mystring s3{"abcdef"};  
     s3 *= 5;
     cout << s3 << endl;             // abcdefabcdefabcdefabcdefabcdef
-    
+
     Mystring s = "Frank";
     ++s;
     cout << s << endl;                  // FRANK
@@ -61,6 +61,5 @@ int main() {
     cout << s << endl;                  // FRANK
     cout << result << endl;           // frank
     
-    */
     return 0;
 }

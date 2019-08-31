@@ -2,6 +2,11 @@
 #include <cstring>
 #include "Mystring.h"
 
+using std::strcpy;
+using std::strcmp;
+using std::strcat;
+using std::strlen;
+
  // No-args constructor
 Mystring::Mystring() 
     : str{nullptr} {
@@ -88,4 +93,69 @@ std::istream &operator>>(std::istream &in, Mystring &rhs) {
     rhs = Mystring{buff};
     delete [] buff;
     return in;
+}
+
+bool operator==(const Mystring &lhs, const Mystring &rhs){
+    return (strcmp(lhs.str, rhs.str) == 0);
+}
+bool operator!=(const Mystring &lhs, const Mystring &rhs){
+    return !(lhs == rhs);
+}
+bool operator>(const Mystring &lhs, const Mystring &rhs){
+    return (strcmp(lhs.str, rhs.str) > 0);
+}
+bool operator<(const Mystring &lhs, const Mystring &rhs){
+    return (strcmp(lhs.str, rhs.str) < 0);
+}
+Mystring operator-(const Mystring &obj){
+    char *buff = new char [strlen(obj.str) + 1];
+    strcpy(buff, obj.str);
+    for (size_t i {0}; i < strlen(buff); i++){
+        buff[i] = std::tolower(buff[i]);
+    }
+    Mystring temp {buff};
+    delete [] buff;
+    return temp;
+}
+Mystring operator+(const Mystring &lhs, const Mystring &rhs){
+    char *buff = new char [strlen(lhs.str) + strlen(rhs.str) + 1];
+    strcpy(buff, lhs.str);
+    strcat(buff, rhs.str);
+    Mystring temp {buff};
+    delete [] buff;
+    return temp;
+}
+Mystring operator*(const Mystring &obj, const unsigned &num){
+    if (num == 0){
+        Mystring temp {'\0'};
+        return temp;
+    }
+    char *buff = new char[strlen(obj.str)*num + 1];
+    strcpy(buff, obj.str);
+    for (size_t i {1}; i < num; i++){
+        strcat(buff, obj.str);
+    }
+    Mystring temp {buff};
+    delete [] buff;
+    return temp;
+}
+Mystring &operator+=(Mystring &lhs, const Mystring &rhs){
+    lhs = lhs + rhs;
+    return lhs;
+}
+Mystring &operator*=(Mystring &lhs, const unsigned &num){
+    lhs = lhs*num;
+    return lhs;
+}
+Mystring &operator++(Mystring &obj){
+    // no need to create new object here!
+    for (size_t i {0}; i < strlen(obj.str); i++){
+        obj.str[i] = std::toupper(obj.str[i]);
+    }
+    return obj;
+}
+Mystring operator++(Mystring &obj, int){
+    Mystring temp {obj.str};
+    ++obj; // needs to be pre increment
+    return temp; // return copy of old object
 }

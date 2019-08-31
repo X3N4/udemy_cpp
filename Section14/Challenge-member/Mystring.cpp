@@ -142,10 +142,29 @@ Mystring Mystring::operator*(const unsigned &num){
 }
 Mystring &Mystring::operator+=(const Mystring &rhs){
     // We need to work with the Mystring objects here, not the C-style strings they hold!
-    *this = *this + str;
+    *this = *this + rhs;
     return *this;
 }
 Mystring &Mystring::operator*=(const unsigned &num){
     *this = *this*num;
     return *this;
+}
+
+// pre increment - no args given
+// can be done simpler as we don't need to create a copy!
+Mystring &Mystring::operator++(){
+    char *buff = new char[strlen(str) + 1];
+    strcpy(buff, str);
+    for (size_t i {0}; i < strlen(buff); ++i){
+        buff[i] = std::toupper(buff[i]);
+    }
+    *this = Mystring {buff};
+    return *this;
+}
+
+// post increment - int as placeholder to allow overloading
+Mystring Mystring::operator++(int){
+    Mystring temp {*this};
+    operator++();
+    return temp;
 }

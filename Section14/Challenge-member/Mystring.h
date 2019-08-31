@@ -26,6 +26,8 @@ public:
     Mystring operator*(const unsigned &num);
     Mystring &operator+=(const Mystring &rhs);
     Mystring &operator*=(const unsigned &num);
+    Mystring &operator++(); // pre increment
+    Mystring operator++(int); // post increment
     
     void display() const;
     
