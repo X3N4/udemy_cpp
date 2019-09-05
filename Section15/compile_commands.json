@@ -1,0 +1,101 @@
+[{
+  "file": "/home/timo/Programs/CPPcourse/Section15/CopyConstructorAssignmentOperator/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/CopyConstructorAssignmentOperator",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/CopyConstructorAssignmentOperator/main.cpp -o /home/timo/Programs/CPPcourse/Section15/CopyConstructorAssignmentOperator/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ClassDerivation/main.cpp -o /home/timo/Programs/CPPcourse/Section15/ClassDerivation/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation/SavingsAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ClassDerivation/SavingsAccount.cpp -o /home/timo/Programs/CPPcourse/Section15/ClassDerivation/SavingsAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation/SavingsAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ClassDerivation/SavingsAccount.h -o /home/timo/Programs/CPPcourse/Section15/ClassDerivation/SavingsAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ClassDerivation/Account.h -o /home/timo/Programs/CPPcourse/Section15/ClassDerivation/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ClassDerivation",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ClassDerivation/Account.cpp -o /home/timo/Programs/CPPcourse/Section15/ClassDerivation/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ConstructorsandDestructors/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ConstructorsandDestructors",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ConstructorsandDestructors/main.cpp -o /home/timo/Programs/CPPcourse/Section15/ConstructorsandDestructors/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/BaseClassInitialization/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/BaseClassInitialization",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/BaseClassInitialization/main.cpp -o /home/timo/Programs/CPPcourse/Section15/BaseClassInitialization/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/main.cpp -o /home/timo/Programs/CPPcourse/Section15/Challenge/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/CheckingAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/CheckingAccount.h -o /home/timo/Programs/CPPcourse/Section15/Challenge/CheckingAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/TrustAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/TrustAccount.h -o /home/timo/Programs/CPPcourse/Section15/Challenge/TrustAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/AccountUtil.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/AccountUtil.h -o /home/timo/Programs/CPPcourse/Section15/Challenge/AccountUtil.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/CheckingAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/CheckingAccount.cpp -o /home/timo/Programs/CPPcourse/Section15/Challenge/CheckingAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/SavingsAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/SavingsAccount.cpp -o /home/timo/Programs/CPPcourse/Section15/Challenge/SavingsAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/Account.h -o /home/timo/Programs/CPPcourse/Section15/Challenge/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/TrustAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/TrustAccount.cpp -o /home/timo/Programs/CPPcourse/Section15/Challenge/TrustAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/AccountUtil.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/AccountUtil.cpp -o /home/timo/Programs/CPPcourse/Section15/Challenge/AccountUtil.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/SavingsAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/SavingsAccount.h -o /home/timo/Programs/CPPcourse/Section15/Challenge/SavingsAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/Challenge/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/Challenge/Account.cpp -o /home/timo/Programs/CPPcourse/Section15/Challenge/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/main.cpp -o /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/SavingsAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/SavingsAccount.cpp -o /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/SavingsAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/SavingsAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/SavingsAccount.h -o /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/SavingsAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/Account.cpp -o /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/Account.h -o /home/timo/Programs/CPPcourse/Section15/RedefiningBaseClassMethods/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section15/ProtectedMembersClassAccess/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section15/ProtectedMembersClassAccess",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section15/ProtectedMembersClassAccess/main.cpp -o /home/timo/Programs/CPPcourse/Section15/ProtectedMembersClassAccess/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
