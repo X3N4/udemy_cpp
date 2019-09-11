@@ -14,6 +14,7 @@ public:
     ~Mystring(); // destructor
     
     Mystring &operator=(const Mystring &rhs); // copy assignment operator
+    
     Mystring &operator=(Mystring &&rhs); // move assignment, no const!
     
     void display() const; // getters -> all const

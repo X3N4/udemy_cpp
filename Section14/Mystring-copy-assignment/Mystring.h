@@ -12,7 +12,7 @@ public:
     Mystring(const Mystring &source); // copy constructor
     ~Mystring(); // destructor
     
-    Mystring &operator=(const Mystring &rhs); // copy assignemtn operator
+    Mystring &operator=(const Mystring &rhs); // copy assignment operator
     
     void display() const; // getters -> all const
     int get_length() const;
