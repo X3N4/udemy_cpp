@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section17" Database="" Version="10.0.0">
+  <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
+  <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
+  <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="No"/>
+  <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="No"/>
+  <Project Name="Challenge-1" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UniquePointers" ConfigName="Debug"/>
+      <Project Name="SharedPointers" ConfigName="Debug"/>
+      <Project Name="WeakPointers" ConfigName="Debug"/>
+      <Project Name="CustomDeleters" ConfigName="Debug"/>
+      <Project Name="Challenge-1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UniquePointers" ConfigName="Release"/>
+      <Project Name="SharedPointers" ConfigName="Release"/>
+      <Project Name="WeakPointers" ConfigName="Release"/>
+      <Project Name="CustomDeleters" ConfigName="Release"/>
+      <Project Name="Challenge-1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

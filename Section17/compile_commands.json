@@ -1,0 +1,117 @@
+[{
+  "file": "/home/timo/Programs/CPPcourse/Section17/Challenge/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/Challenge/main.cpp -o /home/timo/Programs/CPPcourse/Section17/Challenge/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/I_Printable.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/I_Printable.h -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/I_Printable.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/I_Printable.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/I_Printable.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/I_Printable.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/SavingsAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/SavingsAccount.h -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/SavingsAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/AccountUtil.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/AccountUtil.h -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/AccountUtil.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/TrustAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/TrustAccount.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/TrustAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/SavingsAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/SavingsAccount.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/SavingsAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/CheckingAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/CheckingAccount.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/CheckingAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/main.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/AccountUtil.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/AccountUtil.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/AccountUtil.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/TrustAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/TrustAccount.h -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/TrustAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/CheckingAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/CheckingAccount.h -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/CheckingAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/Account.cpp -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/UniquePointers/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/UniquePointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/UniquePointers/Account.h -o /home/timo/Programs/CPPcourse/Section17/UniquePointers/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/main.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/Account.h -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/Account.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/SavingsAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/SavingsAccount.h -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/SavingsAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/I_Printable.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/I_Printable.h -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/I_Printable.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/TrustAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/TrustAccount.h -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/TrustAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/TrustAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/TrustAccount.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/TrustAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/I_Printable.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/I_Printable.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/I_Printable.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/SavingsAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/SavingsAccount.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/SavingsAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/CheckingAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/CheckingAccount.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/CheckingAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/AccountUtil.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/AccountUtil.cpp -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/AccountUtil.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/CheckingAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/CheckingAccount.h -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/CheckingAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/SharedPointers/AccountUtil.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/SharedPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/SharedPointers/AccountUtil.h -o /home/timo/Programs/CPPcourse/Section17/SharedPointers/AccountUtil.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/WeakPointers/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/WeakPointers",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/WeakPointers/main.cpp -o /home/timo/Programs/CPPcourse/Section17/WeakPointers/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section17/CustomDeleters/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section17/CustomDeleters",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section17/CustomDeleters/main.cpp -o /home/timo/Programs/CPPcourse/Section17/CustomDeleters/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
