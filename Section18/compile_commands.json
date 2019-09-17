@@ -1,0 +1,141 @@
+[{
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/Account.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/Account.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/SavingsAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/SavingsAccount.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/SavingsAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/SavingsAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/SavingsAccount.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/SavingsAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/main.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/IllegalBalanceException.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/IllegalBalanceException.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/IllegalBalanceException.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/I_Printable.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/I_Printable.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/I_Printable.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/I_Printable.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/I_Printable.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/I_Printable.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/InsufficientFundsException.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/InsufficientFundsException.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/InsufficientFundsException.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/AccountUtil.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/AccountUtil.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/AccountUtil.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/TrustAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/TrustAccount.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/TrustAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/CheckingAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/CheckingAccount.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/CheckingAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/CheckingAccount.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/CheckingAccount.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/CheckingAccount.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/AccountUtil.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/AccountUtil.h -o /home/timo/Programs/CPPcourse/Section18/Challenge/AccountUtil.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/Challenge/TrustAccount.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/Challenge",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/Challenge/TrustAccount.cpp -o /home/timo/Programs/CPPcourse/Section18/Challenge/TrustAccount.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/MPGFunctionExceptionClasses/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/MPGFunctionExceptionClasses",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/MPGFunctionExceptionClasses/main.cpp -o /home/timo/Programs/CPPcourse/Section18/MPGFunctionExceptionClasses/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/StackUnwinding/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/StackUnwinding",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/StackUnwinding/main.cpp -o /home/timo/Programs/CPPcourse/Section18/StackUnwinding/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/MPGFunctionMultipleExceptions/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/MPGFunctionMultipleExceptions",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/MPGFunctionMultipleExceptions/main.cpp -o /home/timo/Programs/CPPcourse/Section18/MPGFunctionMultipleExceptions/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/MPGException/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/MPGException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/MPGException/main.cpp -o /home/timo/Programs/CPPcourse/Section18/MPGException/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Trust_Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Trust_Account.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Trust_Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Trust_Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Trust_Account.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Trust_Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/I_Printable.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/I_Printable.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/I_Printable.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/main.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Account_Util.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account_Util.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account_Util.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Checking_Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Checking_Account.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Checking_Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Savings_Account.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Savings_Account.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Savings_Account.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/IllegalBalanceException.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/IllegalBalanceException.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/IllegalBalanceException.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Savings_Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Savings_Account.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Savings_Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Account_Util.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account_Util.cpp -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Account_Util.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/Checking_Account.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/Checking_Account.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/Checking_Account.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/ConstructorException/I_Printable.h",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/ConstructorException",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/ConstructorException/I_Printable.h -o /home/timo/Programs/CPPcourse/Section18/ConstructorException/I_Printable.h.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -std=c++14  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/MPG/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/MPG",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/MPG/main.cpp -o /home/timo/Programs/CPPcourse/Section18/MPG/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section18/MPGFunction/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section18/MPGFunction",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section18/MPGFunction/main.cpp -o /home/timo/Programs/CPPcourse/Section18/MPGFunction/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

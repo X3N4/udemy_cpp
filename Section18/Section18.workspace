@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section18" Database="" Version="10.0.0">
+  <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
+  <Project Name="MPGException" Path="MPGException/MPGException.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
+  <Project Name="MPGFunctionMultipleExceptions" Path="MPGFunctionMultipleExceptions/MPGFunctionMultipleExceptions.project" Active="No"/>
+  <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project" Active="No"/>
+  <Project Name="MPGFunctionExceptionClasses" Path="MPGFunctionExceptionClasses/MPGFunctionExceptionClasses.project" Active="No"/>
+  <Project Name="ConstructorException" Path="ConstructorException/ConstructorException.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Debug"/>
+      <Project Name="MPGException" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Debug"/>
+      <Project Name="StackUnwinding" ConfigName="Debug"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Debug"/>
+      <Project Name="ConstructorException" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Release"/>
+      <Project Name="MPGException" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Release"/>
+      <Project Name="StackUnwinding" ConfigName="Release"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Release"/>
+      <Project Name="ConstructorException" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
