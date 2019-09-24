@@ -6,8 +6,8 @@
   <Project Name="MPGFunctionMultipleExceptions" Path="MPGFunctionMultipleExceptions/MPGFunctionMultipleExceptions.project" Active="No"/>
   <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project" Active="No"/>
   <Project Name="MPGFunctionExceptionClasses" Path="MPGFunctionExceptionClasses/MPGFunctionExceptionClasses.project" Active="No"/>
-  <Project Name="ConstructorException" Path="ConstructorException/ConstructorException.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="ConstructorException" Path="ConstructorException/ConstructorException.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>

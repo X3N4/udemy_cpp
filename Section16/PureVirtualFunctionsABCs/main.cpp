@@ -32,7 +32,7 @@ public:
 
 
 // ------------------------------------------
-// Concrete classes (have to override both pure virtual functions
+// Concrete classes (have to override both pure virtual functions)
 class Line: public OpenShape {
 
 public:

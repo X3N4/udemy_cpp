@@ -28,10 +28,12 @@ int main(){
     
     // unique pointer creation patterns
     // using new
+    
     std::unique_ptr<Test> p1 {new Test {1337}};
     
     // using make_unique
     // 34 is function argument here, can't be curly
+    
     std::unique_ptr<Test> p2 = std::make_unique<Test>(34);
     
     std::unique_ptr<Test> p3;
@@ -41,7 +43,9 @@ int main(){
         std::cout << "p1 is dead" << std::endl;
         
     // simply use auto here, no need for explicit typing
+    
     auto a1 = std::make_unique<CheckingAccount>("Oscar", 5000);
+    
     std::cout << *a1 << std::endl;
     a1->deposit(1337); // access method like other pointers
     std::cout << *a1 << std::endl;

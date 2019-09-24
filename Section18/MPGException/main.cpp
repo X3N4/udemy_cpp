@@ -14,12 +14,12 @@ int main(){
     try {
         // have to manually throw an exception in C++
         if (liters == 0) 
-            throw 0;
+            throw 0; // don't throw  primitives like ints
         km_per_liter = static_cast<double>(km)/liters;
         std::cout << "Result: " << km_per_liter << std::endl;
     }
     // reference to thrown exception (int 0)
-    catch (int &ex) {
+    catch (const int &ex) {
         std::cerr << "DivisionByZero error." << std::endl;
     }
     

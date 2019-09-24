@@ -2,7 +2,7 @@
 #include <string>
 
 // user defined exception classes
-// have no methods or attributes, could be defined here
+// have no methods or attributes (but could have)
 class DivideByZeroException {};
 class NegativeValueException {};
 
@@ -32,7 +32,6 @@ int main(){
         kml = calculate_kml(km, liters);
         std::cout << "Result: " << kml << std::endl;
     } catch (const DivideByZeroException &ex) {
-        // could call exception attributes here if exception had them
         std::cerr << "Don't divide by 0." << std::endl;
     } catch (const NegativeValueException &ex) {
         std::cerr << "Don't use negative values." << std::endl;

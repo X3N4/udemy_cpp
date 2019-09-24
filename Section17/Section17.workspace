@@ -2,9 +2,9 @@
 <CodeLite_Workspace Name="Section17" Database="" Version="10.0.0">
   <Project Name="UniquePointers" Path="UniquePointers/UniquePointers.project" Active="No"/>
   <Project Name="SharedPointers" Path="SharedPointers/SharedPointers.project" Active="No"/>
-  <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="No"/>
+  <Project Name="WeakPointers" Path="WeakPointers/WeakPointers.project" Active="Yes"/>
   <Project Name="CustomDeleters" Path="CustomDeleters/CustomDeleters.project" Active="No"/>
-  <Project Name="Challenge-1" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Challenge-1" Path="Challenge/Challenge.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>

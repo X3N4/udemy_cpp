@@ -22,7 +22,7 @@ void test_deleter(Test *ptr) {
 int main(){
     
     {
-        // Using lambda
+        // No lambda
         std::shared_ptr<Test> ptr1 {new Test{100}, test_deleter};
     }
     

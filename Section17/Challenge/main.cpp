@@ -75,6 +75,12 @@ std::unique_ptr<std::vector<std::shared_ptr<Test>>> make() {
     return ptr;
 }
 
+auto make() {
+    // can return in the same line here
+    auto ptr = std::make_unique<std::vector<std::shared_ptr<Test>>>();
+    return ptr;
+}
+
 void fill(std::vector<std::shared_ptr<Test>> &vec, int num){
     if (num < 0){
         std::cout << "That won't work, bro" << std::endl;

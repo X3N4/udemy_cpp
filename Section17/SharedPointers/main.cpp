@@ -36,9 +36,9 @@ int main(){
     p1.reset();
     std::cout << "Use count: " << p1.use_count() << std::endl;
     std::cout << "Use count: " << p2.use_count() << std::endl;
+    
     */
     
-    /*
     auto p1 = std::make_shared<Test>(100);
     func(p1); // object gets created inside func scope and then destroyed
     std::cout << "Use count: " << p1.use_count() << std::endl;
@@ -55,7 +55,7 @@ int main(){
 
     }
     std::cout << "Use count: " << p1.use_count() <<std:: endl;
-    */
+    
     
     auto acc1 = std::make_shared<TrustAccount>("Oscar", 1337, 3.4);
     auto acc2 = std::make_shared<CheckingAccount>("Jacques", 4000);
