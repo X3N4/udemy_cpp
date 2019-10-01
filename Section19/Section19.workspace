@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section19" Database="" Version="10.0.0">
+  <Project Name="Manip_Bools" Path="Manip_Bools/Manip_Bools.project" Active="No"/>
+  <Project Name="Manip_Ints" Path="Manip_Ints/Manip_Ints.project" Active="No"/>
+  <Project Name="Manip_Floats" Path="Manip_Floats/Manip_Floats.project" Active="No"/>
+  <Project Name="Manip_Fields" Path="Manip_Fields/Manip_Fields.project" Active="No"/>
+  <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Manip_Bools" ConfigName="Debug"/>
+      <Project Name="Manip_Ints" ConfigName="Debug"/>
+      <Project Name="Manip_Floats" ConfigName="Debug"/>
+      <Project Name="Manip_Fields" ConfigName="Debug"/>
+      <Project Name="Challenge_1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Manip_Bools" ConfigName="Release"/>
+      <Project Name="Manip_Ints" ConfigName="Release"/>
+      <Project Name="Manip_Floats" ConfigName="Release"/>
+      <Project Name="Manip_Fields" ConfigName="Release"/>
+      <Project Name="Challenge_1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
