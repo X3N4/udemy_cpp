@@ -1,0 +1,4 @@
+Oscar 100 43.7
+Simba 200 34.5
+Jacques 300 12.5
+Leo 400 99.9
