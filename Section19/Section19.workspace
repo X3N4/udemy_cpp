@@ -10,11 +10,11 @@
   <Project Name="Read_file_3" Path="Read_file_3/Read_file_3.project" Active="No"/>
   <Project Name="Read_file_4" Path="Read_file_4/Read_file_4.project" Active="No"/>
   <Project Name="Challenge_3" Path="Challenge_3/Challenge_3.project" Active="No"/>
-  <Project Name="WriteFile" Path="WriteFile/WriteFile.project" Active="No"/>
+  <Project Name="WriteFile" Path="WriteFile/WriteFile.project" Active="Yes"/>
   <Project Name="CopyFile_1" Path="CopyFile_1/CopyFile_1.project" Active="No"/>
   <Project Name="CopyFile_2" Path="CopyFile_2/CopyFile_2.project" Active="No"/>
   <Project Name="StringStream" Path="StringStream/StringStream.project" Active="No"/>
-  <Project Name="Challenge_4" Path="Challenge_4/Challenge_4.project" Active="Yes"/>
+  <Project Name="Challenge_4" Path="Challenge_4/Challenge_4.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>

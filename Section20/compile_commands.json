@@ -1,0 +1,73 @@
+[{
+  "file": "/home/timo/Programs/CPPcourse/Section20/Challenge_4/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Challenge_4",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Challenge_4/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Challenge_4/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Queue/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Queue",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Queue/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Queue/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Set/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Set",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Set/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Set/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Challenge_2/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Challenge_2",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Challenge_2/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Challenge_2/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Iterators/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Iterators",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Iterators/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Iterators/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/ClassTemplateArray/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/ClassTemplateArray",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/ClassTemplateArray/main.cpp -o /home/timo/Programs/CPPcourse/Section20/ClassTemplateArray/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Challenge_3/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Challenge_3",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Challenge_3/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Challenge_3/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Vector/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Vector",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Vector/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Vector/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Map/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Map",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Map/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Map/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/ClassTemplaes/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/ClassTemplaes",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/ClassTemplaes/main.cpp -o /home/timo/Programs/CPPcourse/Section20/ClassTemplaes/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Stack/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Stack",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Stack/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Stack/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/FunctionTemplates/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/FunctionTemplates",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/FunctionTemplates/main.cpp -o /home/timo/Programs/CPPcourse/Section20/FunctionTemplates/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Algorithms/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Algorithms",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Algorithms/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Algorithms/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Array/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Array",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Array/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Array/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/List/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/List",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/List/main.cpp -o /home/timo/Programs/CPPcourse/Section20/List/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Priority_Queue/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Priority_Queue",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Priority_Queue/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Priority_Queue/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Deque/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Deque",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Deque/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Deque/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/timo/Programs/CPPcourse/Section20/Challenge_1/main.cpp",
+  "directory": "/home/timo/Programs/CPPcourse/Section20/Challenge_1",
+  "command": "clang  -c /home/timo/Programs/CPPcourse/Section20/Challenge_1/main.cpp -o /home/timo/Programs/CPPcourse/Section20/Challenge_1/main.cpp.o  -I/usr/include/c++/6 -I/usr/include/x86_64-linux-gnu/c++/6 -I/usr/include/c++/6/backward -I/usr/lib/gcc/x86_64-linux-gnu/6/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]
