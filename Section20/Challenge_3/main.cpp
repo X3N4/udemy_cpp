@@ -159,7 +159,7 @@ void part2() {
         int line_no {1};
         while (std::getline(in_file, line)){
             std::stringstream ss {line};
-            // cann extract from stringstream using stream extraction
+            // can extract from stringstream using stream extraction
             while (ss >> word){
                 word = clean_string(word);
                 // don't need to check and instantiate, isert is enough

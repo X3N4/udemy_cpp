@@ -8,7 +8,7 @@
   <Project Name="Array" Path="Array/Array.project" Active="No"/>
   <Project Name="Deque" Path="Deque/Deque.project" Active="No"/>
   <Project Name="Challenge_1" Path="Challenge_1/Challenge_1.project" Active="No"/>
-  <Project Name="Vector" Path="Vector/Vector.project" Active="No"/>
+  <Project Name="Vector" Path="Vector/Vector.project" Active="Yes"/>
   <Project Name="List" Path="List/List.project" Active="No"/>
   <Project Name="Challenge_2" Path="Challenge_2/Challenge_2.project" Active="No"/>
   <Project Name="Set" Path="Set/Set.project" Active="No"/>
@@ -16,7 +16,7 @@
   <Project Name="Challenge_3" Path="Challenge_3/Challenge_3.project" Active="No"/>
   <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
   <Project Name="Queue" Path="Queue/Queue.project" Active="No"/>
-  <Project Name="Challenge_4" Path="Challenge_4/Challenge_4.project" Active="Yes"/>
+  <Project Name="Challenge_4" Path="Challenge_4/Challenge_4.project" Active="No"/>
   <Project Name="Priority_Queue" Path="Priority_Queue/Priority_Queue.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">

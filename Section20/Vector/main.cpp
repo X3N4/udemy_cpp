@@ -151,7 +151,7 @@ void test5() {
     auto it = v.begin();
     while (it != v.end()){
         if (*it%2 == 0)
-            v.erase(it); // value of an iterator without dereference is the element's sequence number
+            v.erase(it); // value of an iterator without dereference is the element's memory location
         else
             ++it;
     }

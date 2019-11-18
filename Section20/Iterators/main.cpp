@@ -106,7 +106,7 @@ void test4() {
     
     auto it3 {cat_ages.begin()}; // regular iterator
     while (it3 != cat_ages.end()) {
-        // elements are accessed using pointer arrow syntax
+        // elements are accessed using pointer arrow syntax [or (*it).member]
         std::cout << it3->first << ": " << it3->second << std::endl;
         ++it3;
     }
@@ -130,7 +130,7 @@ int main(){
 //    test1();
 //    test2();
 //    test3();
-//    test4();
+    test4();
     test5();
     return 0;
     

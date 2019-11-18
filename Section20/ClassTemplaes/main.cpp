@@ -2,6 +2,10 @@
 #include <vector>
 #include <string>
 
+#include <tuple>
+
+#include <utility>
+
 
 // Template classes have to implement in the .h file only [NO .cpp file!]
 template <typename T>

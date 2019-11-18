@@ -68,7 +68,7 @@ bool is_palindrome(const std::string& s){
     while ( (!char_stack.empty()) && (!char_queue.empty()) ) {
         if ( char_stack.top() != char_queue.front())
             return false;
-        char_queue.pop(),
+        char_queue.pop();
         char_stack.pop();
     }
     
